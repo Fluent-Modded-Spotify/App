@@ -10,11 +10,11 @@ Spotify, but with a hint of Fluent Design
 
 <br>
 
-![dark-1](https://github.com/williamckha/spicetify-fluent/tree/master/screenshots/dark-1.png)  
+![dark-1](https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-1.png?raw=true)  
 <br>
-![dark-2](https://github.com/williamckha/spicetify-fluent/tree/master/screenshots/dark-2.png)  
+![dark-2](https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/dark-2.png?raw=true)  
 <br>
-![light-1](https://github.com/williamckha/spicetify-fluent/tree/master/screenshots/light-1.png)  
+![light-1](https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/light-1.png?raw=true)  
 <br>
 
 ## About
