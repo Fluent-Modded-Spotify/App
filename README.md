@@ -109,3 +109,5 @@ Supports Windows, MacOS and Linux.
 - After installing, go to the Spotify folder you just extracted and run Spotify.exe
 - You should have Fluent Design in the Spotify app now!
 
+<h10>Credits: Installation steps by [donut2008](https://github.com/donut2008)</h10>
+
