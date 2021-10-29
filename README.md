@@ -1,7 +1,14 @@
+<h1 style="text-align:center">
+  
 # Fluent-Modded-Spotify
 
-Spotify, but with a hint of Fluent Design
-
+  ![](https://raw.githubusercontent.com/pronoy2108/Fluent-Modded-Spotify/main/spotify-icon.png)
+  <p align="center">Icon made by <a href="https://t.me/Qirkl">Qirkl</a></p>
+<p align="center">Spotify, but with a hint of Fluent Design</p>
+  
+</h1>
+  
+  
 ### [williamckha/spicetify-fluent](https://github.com/williamckha/spicetify-fluent)
 
   [Spicetify](https://github.com/khanhas/spicetify-cli) theme inspired by Windows 11 UI and Microsoft's Fluent Design  
@@ -65,7 +72,7 @@ If you are using Windows, you can hide the window controls by adding the flag `-
 
 ---
 
-### [khanhas/spicetify-cli](github.com/khanhas/spicetify-cli)
+### [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli)
 
 <h3 align="center"><img src="https://i.imgur.com/iwcLITQ.png" width="600px"></h3>
 <p align="center">
@@ -100,15 +107,15 @@ Supports Windows, MacOS and Linux.
 
 - Download the three files
 - Copy them to a folder in an easily accessible location like Desktop
-- Install scoop using iwr -useb get.scoop.sh | iex
-- After scoop is installed, type Set-ExecutionPolicy unrestricted in admin Powershell
+- Install ```scoop``` using ```iwr -useb get.scoop.sh | iex```
+- After scoop is installed, type ```Set-ExecutionPolicy unrestricted``` in Powershell with elevated privileges
 - Run Spotify.exe as admin (it's a 7z archive and requires admin to extract the files for some reason)
 - Extract it to the same location
-- Run Fluent Spotify.exe
+- Run ```Fluent Spotify.exe```
 - Install it however you want, for all users/for the current user only
-- After installing, go to the Spotify folder you just extracted and run Spotify.exe
+- After installing, go to the ```Spotify``` folder you just extracted and run ```Spotify.exe```
 - You should have Fluent Design in the Spotify app now!
 
 <h10>Credits: Installation steps by [donut2008](https://github.com/donut2008)</h10>
 
-Note: autorunscript.ps1 is a file which automatically installs the dependencies for this app (needs admin priviledges to work)
+Note: ```autorunscript.ps1``` is a file which automatically installs the dependencies for this app (needs admin priviledges to work)
