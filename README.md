@@ -2,7 +2,7 @@
 
 Spotify, but with a hint of Fluent Design
 
-### [williamckha/spicetify-fluent](github.com/williamckha/spicetify-fluent)
+### [williamckha/spicetify-fluent](https://github.com/williamckha/spicetify-fluent)
 
   [Spicetify](https://github.com/khanhas/spicetify-cli) theme inspired by Windows 11 UI and Microsoft's Fluent Design  
 
@@ -111,3 +111,4 @@ Supports Windows, MacOS and Linux.
 
 <h10>Credits: Installation steps by [donut2008](https://github.com/donut2008)</h10>
 
+Note: autorunscript.ps1 is a file which automatically installs the dependencies for this app (needs admin priviledges to work)
