@@ -1,12 +1,22 @@
-<h1 style="text-align:center">
+<h2 align="center">
   
-# Fluent-Modded-Spotify
+  Fluent-Modded-Spotify
 
-  ![](https://raw.githubusercontent.com/pronoy2108/Fluent-Modded-Spotify/main/spotify-icon.png)
+  
+  <img align="center" width="256" height="256" src="https://raw.githubusercontent.com/pronoy2108/Fluent-Modded-Spotify/main/spotify-icon.png">
+  </h2>
+  
   <p align="center">Icon made by <a href="https://t.me/Qirkl">Qirkl</a></p>
 <p align="center">Spotify, but with a hint of Fluent Design</p>
   
-</h1>
+
+<p align="center">
+<a href="https://github.com/pronoy2108/Fluent-Modded-Spotify/releases/tag/v2.5"><img src="https://img.shields.io/github/v/release/pronoy2108/Fluent-Modded-Spotify?label=version"></a>
+
+<img src="https://img.shields.io/github/downloads/pronoy2108/Fluent-Modded-Spotify/total">
+</p>
+<hr/>
+  
   
   
 ### [williamckha/spicetify-fluent](https://github.com/williamckha/spicetify-fluent)
