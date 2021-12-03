@@ -126,4 +126,4 @@ Supports Windows, MacOS and Linux.
 
 <h10>Credits: Installation steps by [donut2008](https://github.com/donut2008)</h10>
 
-Note: ```autorunscript.ps1``` is a file which automatically installs the dependencies for this app (needs admin priviledges to work)
+Note: ```autorunscript.ps1```/```autorunscript.sh``` is a file which automatically installs the dependencies for this app (needs admin priviledges to work)
