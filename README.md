@@ -128,7 +128,7 @@ Supports Windows, MacOS and Linux.
 
 Follow the same process for Linux above, except the install scripts can be downloaded from [here](https://github.com/windowz414/FMS-Arch) 
 
-
+<TODO [windowz414]: Finish fullinstall_arch.sh (A script to unify FMS-Arch) and put its utilization instead.>
 
 <h10>Credits: Installation steps for Windows by [donut2008](https://github.com/donut2008)</h10>
 
