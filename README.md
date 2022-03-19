@@ -124,6 +124,9 @@ Supports Windows, MacOS and Linux.
 * Run ```autorunscript.sh``` to install all dependencies.
 * Run ```Fluent Spotify.deb``` 
 
+#### Arch Linux and its Derivatives
+
+Follow the same process for Linux above, except the install scripts can be downloaded from [here](https://github.com/windowz414/FMS-Arch) 
 <h10>Credits: Installation steps by [donut2008](https://github.com/donut2008)</h10>
 
 Note: ```autorunscript.ps1```/```autorunscript.sh``` is a file which automatically installs the dependencies for this app (needs admin priviledges to work)
