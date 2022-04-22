@@ -23,55 +23,6 @@
 <br>
 ![light-1](https://github.com/williamckha/spicetify-fluent/blob/master/screenshots/light-1.png?raw=true)  
 <br>
-
-## About
-
-
-Requires Segoe UI font.
-
-Based off [Ziro](https://github.com/schnensch0/ziro) theme by [schnensch](https://github.com/schnensch0)  
-[Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) by Microsoft Corporation  
-[Phosphor Icons](https://github.com/phosphor-icons/phosphor-icons) by Phosphor Icons
-
-## Install
-Make sure spicetify >= v2.6.6 is installed. Run these commands:
-
-### Windows
-In **Powershell**:
-```powershell
-cd "$(spicetify -c | Split-Path)\Themes"
-git clone https://github.com/williamckha/spicetify-fluent Fluent
-Copy-Item Fluent\fluent.js ..\Extensions
-spicetify config extensions fluent.js
-spicetify config current_theme Fluent color_scheme dark
-spicetify config inject_css 1 replace_colors 1 overwrite_assets 1
-spicetify apply
-```
-
-### macOS and Linux
-In **Bash**:
-```bash
-cd "$(dirname "$(spicetify -c)")/Themes"
-git clone https://github.com/williamckha/spicetify-fluent Fluent
-mkdir -p ../Extensions
-cp Fluent/fluent.js ../Extensions/.
-spicetify config extensions fluent.js
-spicetify config current_theme Fluent color_scheme dark
-spicetify config inject_css 1 replace_colors 1 overwrite_assets 1
-spicetify apply
-```
-
-## Customization
-Three color schemes are available: `light`, `dark` or `dracula`. Change scheme with commands:
-```
-spicetify config color_scheme <scheme_name>
-spicetify apply
-```
-You can change the accent color in the theme folder's color.ini file.  
-If you are using Windows, you can hide the window controls by adding the flag `--transparent-window-controls` after Spotify.exe in your Spotify shortcut.
-
----
-
 ### [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli)
 
 <h3 align="center"><img src="https://i.imgur.com/iwcLITQ.png" width="600px"></h3>
@@ -94,13 +45,6 @@ Supports Windows, MacOS and Linux.
 - Inject Extensions (Javascript script) to extend functionalities, manipulate UI and control player.
 - Inject Custom apps
 - Remove bloated components to improve performance
-
-#### [Installation](https://github.com/khanhas/spicetify-cli/wiki/Installation)
-#### [Basic Usage](https://github.com/khanhas/spicetify-cli/wiki/Basic-Usage)
-#### [Customization](https://github.com/khanhas/spicetify-cli/wiki/Customization)
-#### [Extensions](https://github.com/khanhas/spicetify-cli/wiki/Extensions)
-#### [Custom Apps](https://github.com/khanhas/spicetify-cli/wiki/Custom-Apps)
-#### [Wiki](https://github.com/khanhas/spicetify-cli/wiki)
 
 ## Installation
 
