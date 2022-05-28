@@ -74,7 +74,7 @@ Follow the same process for Linux above, except the install scripts can be downl
 
 <todo content="[windowz414]: Finish fullinstall_arch.sh (A script to unify FMS-Arch) and put its utilization instead." />
 
-<h10><strong>Credits:<strong></h10> 
-<p>Installation steps for Windows by [donut2008](https://github.com/donut2008)</p>
+<h10>**Credits:**</h10> 
+* Installation steps for Windows by [donut2008](https://github.com/donut2008)
 
 Note: ```autorunscript.ps1```/```autorunscript.sh``` is a file which automatically installs the dependencies for this app (needs admin priviledges to work)
