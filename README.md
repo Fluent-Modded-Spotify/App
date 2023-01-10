@@ -3,26 +3,17 @@
 # Fluent-Modded-Spotify
 
   ![](https://raw.githubusercontent.com/pronoy2108/Fluent-Modded-Spotify/main/spotify-icon.png)
-  <p align="center">Icon made by <a href="https://t.me/Qirkl">Qirkl</a></p>
+  <p align="center">Icon made by <a href="https://twitter.com/Qirkl">Qirkl</a></p>
 <p align="center">Spotify, but with a hint of Fluent Design</p>
 
 </h1>
 
-## Installation
+## Installation:
 
 #### Windows:
 
-- Download the two files from Releases
-- Copy them to a folder in an easily accessible location like Desktop
-- Install ```scoop``` using ```iwr -useb get.scoop.sh | iex```
-- After scoop is installed, type ```Set-ExecutionPolicy unrestricted``` in Powershell with elevated privileges
-- Run Spotify.exe as admin (it's a 7z archive and requires admin to extract the files for some reason)
-- Run ```autorunscript.ps1``` to install all dependencies
-- Extract it to the same location
-- Run ```Fluent Spotify.exe``` 
-- Install it however you want, for all users/for the current user only
-- After installing, go to the ```Spotify``` folder you just extracted and run ```Spotify.exe```
-- You should have Fluent Design in the Spotify app now!
+* Prebuilt releases are available through Scoop or through [our Telegram Channel](https://t.me/fms_app/)
+* You can also build and install it yourself through [```autorunscript.ps1```](https://github.com/Fluent-Modded-Spotify/App/releases)
 
 #### Linux:
 
